@@ -1,0 +1,28 @@
+{
+  "name": "pattern-pastejs",
+  "version": "1.0.0",
+  "description": "A nodeJS console app that generates templates of javascript patterns",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leewaygroups/pattern-pastejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "patterns"
+  ],
+  "author": "Prince O. Onyenike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leewaygroups/pattern-pastejs/issues"
+  },
+  "homepage": "https://github.com/leewaygroups/pattern-pastejs#readme"
+}
