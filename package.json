@@ -6,7 +6,6 @@
   "dependencies": {
     "commander": "^2.9.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/leewaygroups/pattern-pastejs/issues"
   },
-  "homepage": "https://github.com/leewaygroups/pattern-pastejs#readme"
+  "homepage": "https://github.com/leewaygroups/pattern-pastejs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-istanbul": "^0.10.4",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
 }

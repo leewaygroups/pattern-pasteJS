@@ -24,20 +24,3 @@ program.command('*')
     });
 
 program.parse(process.argv);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
